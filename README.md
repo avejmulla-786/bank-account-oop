@@ -20,5 +20,4 @@ Withdrawn: 200
 Account Holder: Ali  
 Balance: 1300
 
-## Language
-Python
+
